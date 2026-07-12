@@ -87,6 +87,15 @@ models/
 
 Update the model path in `config.py` if necessary.
 
+Embedding Model
+
+This project uses the Hugging Face Sentence Transformer:
+
+```text
+BAAI/bge-small-en-v1.5
+```
+The model will be downloaded automatically the first time you run the project, or you can download it manually before running the application.
+
 ## Build the Vector Database
 
 Run:
