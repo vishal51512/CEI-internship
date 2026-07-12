@@ -34,8 +34,7 @@ A Retrieval-Augmented Generation (RAG) system that answers questions from custom
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/vishal51512/CEI-internship.git
 ```
 
 ### 2. Create a virtual environment
