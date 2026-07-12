@@ -133,4 +133,4 @@ Retrieval-Augmented Generation (RAG) combines document retrieval with a language
 
 ## Author
 
-**Vishal Singara**
+**Vishal Songara**
