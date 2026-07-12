@@ -108,7 +108,7 @@ This will:
 Run:
 
 ```bash
-python chat.py
+python main.py
 ```
 
 Example:
