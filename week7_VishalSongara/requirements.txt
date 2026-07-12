@@ -1,0 +1,10 @@
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+pymupdf
+streamlit
+numpy
+tqdm
